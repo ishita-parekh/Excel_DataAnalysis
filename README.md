@@ -9,6 +9,7 @@ Performed Data Analysis on Bike Sales data, carried out:
       
       
 [1] Data Cleaning:
+
       Removed Duplicates
       
       Changed Marital Status column replaced M with Married and S with Single
