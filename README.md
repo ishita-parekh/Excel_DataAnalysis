@@ -15,3 +15,5 @@ Performed Data Analysis on Bike Sales data, carried out:
       Changed Marital Status column replaced M with Married and S with Single
       
       Changed Gender Column replaced M with Male and F with Female
+      
+      Created a new column Age Group from Age column as grouped data is more useful
